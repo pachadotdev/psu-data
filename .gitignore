@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+1_raw_data/*.zip
+1_raw_data/*.rar
+4_tidy_data/*.csv
+5_tidy_database/*.sqlite
