@@ -11,6 +11,9 @@ Dado que la prueba PSU entrega un puntaje calculado de acuerdo a una distribuci�
 
 Hice una verificación manual de los datos a partir de los puntajes de corte de distintas carreras (datos versus reportado en suplemento del diario) y también verifiqué los códigos de las carreras y sus nombres (e.g. "Construcción Civil" versus "CONST CIV"). De acuerdo a este proceso hice una limpieza adicional de los datos usando expresiones regulares y buscando outliers mediante las funciones del paquete `tidyverse` y sobretodo haciendo análisis exploratorio de los datos con `ggplot2`.
 
-Puedes revisar la estadística resumen que preparé para los años 2012-2016 en 
+Puedes revisar la estadística resumen que preparé para los años 2012-2016 en https://github.com/pachamaltese/psu-data/raw/master/0_descriptive_statistics_of_psu_results.xlsx
 
-También dejé disponible el diagrama de la base de datos en 
+También dejé disponible el diagrama de la base de datos que preparé en https://github.com/pachamaltese/psu-data/blob/master/0_psu_database_diagram.svg
+
+Todos los scripts están bajo licencia MIT.
+
